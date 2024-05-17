@@ -1,0 +1,4 @@
+admin Panel
+
+admin@mail.com
+pass:password
